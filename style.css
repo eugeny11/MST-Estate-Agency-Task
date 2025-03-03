@@ -175,6 +175,8 @@ header ul {
 .presentation__right{
     max-width: 763px;
     width: 100%;
+    display: flex;
+    align-items: stretch;
 }
 
 .presentation__right img{
